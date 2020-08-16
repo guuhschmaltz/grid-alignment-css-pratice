@@ -6,8 +6,8 @@ Repository to practice grid alignment in css.
 -O Justify serve para realizar alinhamentos na horizontal, do eixo X
 -O Align serve para realizar alinhamentos na vertical, do eixo Y
 
-
-###Podemos usar 7 valores para o "content"
+---
+### Podemos usar 7 valores para o "content"
 
 1. start
 2. end
@@ -17,7 +17,7 @@ Repository to practice grid alignment in css.
 6. space-around
 7. space-evenly
 
-###Podemos usar 4 valores para o "items"
+### Podemos usar 4 valores para o "items"
 
 1. start
 2. end
